@@ -1,3 +1,3 @@
-# Kritchanat-m.github.io
+# Kritchanaxt.github.io
 
 "Hello world! My name is kritchanat"
